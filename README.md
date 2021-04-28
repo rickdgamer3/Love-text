@@ -1,5 +1,5 @@
 ## Love-text<br>
-You can grab this piece of code, send it to your geeky crush and break the ice.<br>
+You can grab this piece of code <code>(love.py)</code>, send it to your geeky crush and break the ice.<br>
 - The code is fully standalone which means you don't need to any install module.<br>
 - This code can be compiled in IDLE, VSCODE or in any other web based compiler.<br>
 
