@@ -1,4 +1,4 @@
-print("  🍓 𝑺𝑹𝑰𝑱𝑨 🍓")
+print("  🍓 CRUSH 🍓")
 
 
 for r in range(6):
