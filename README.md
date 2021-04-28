@@ -1,5 +1,5 @@
-# Love-text
-You can grab this piece of code, send to your geeky crush and break the ice.
-The code is fully stand alone no need to install plugins.
-The coe can be compiled into IDLE, VISUALCODE or in any web based compiler of python.
-Hope this will help, if you liked this work, you can follow me on instagram : yours_sayantan
+## Love-text<br>
+You can grab this piece of code, send it to your geeky crush and break the ice ;).<br>
+The code is fully standalone which means you don't need to any install module.<br>
+This code can be compiled in IDLE, VSCODE or in any other web based compiler.<br>
+I highly hope, this helps. And if you liked my work, don't forget follow me on instagram @yours_sayantan<br>
