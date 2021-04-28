@@ -1,23 +1,5 @@
 # Love-text
-print("  🍓 Crush 🍓")
-
-
-for r in range(6):
-    for c in range(7):
-        if r==0 and c%3!=0 or r==1 and c%3==0 or r-c==2 or r+c==8:
-           print('💚', end='')      
-        else:
-               print(" ",end=" ")
-    print()
-
-for k in range(10):
-    for l in range(10):
-        if k==0 and l==0 or k==0 and l==5:
-            print('I', end='')
-        elif k==1 and l==1 or k==1 and l==2:
-            print('LOVE', end=' ')
-        elif k==3 and l==2:
-            print('YOU',end=' ')
-        else:
-            print('  ',end=" ")
-    print()
+You can grab this piece of code, send to your geeky crush and brek the ice.
+The code is fully stand alone no need to install plugins.
+The coe can be compiled into IDLE, VISUALCODE or in any web based compiler of python.
+Hope this will help, if you liked this work, you can follow me on instagram : yours_sayantan
